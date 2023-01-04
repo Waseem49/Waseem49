@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div>
 <h2 align="center">
-Hi 👋, I am Mushther Hussain. 
+Hi 👋, I am MD Waseem Akram. 
 </h2>
 <hr>
 <h2 align="center">
@@ -30,7 +30,7 @@ A passionate full stack web developer from India
  😄 All of my projects are available at
 <a href="https://github.com/mushther">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
- ⚡ How to reach me mushther2121999@gmail.com
+ ⚡ How to reach me mdwaseem0603@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📱 Connect With Me </h2>
 <br />

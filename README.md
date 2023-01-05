@@ -23,7 +23,7 @@ A passionate full stack web developer from India
  🤔 Check Out my <a href="https://drive.google.com/file/d/1nPGqcSOTk0_cmNNY9FdJQHhxdtd-d5rG/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="">Portfolio</a><br><br>
  😄 All of my projects are available at
-<a href="https://github.com/mushther">My Github Repositories</a><br><br>
+<a href="https://github.com/waseem49">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
  ⚡ How to reach me mdwaseem0603@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
@@ -80,7 +80,7 @@ A passionate full stack web developer from India
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=mushther&theme=github-dark"
+<img src="https://streak-stats.demolab.com?user=waseem49&theme=github-dark"
        alt="stats" /></a>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 

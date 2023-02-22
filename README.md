@@ -20,7 +20,7 @@ A passionate full stack web developer from India
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1nPGqcSOTk0_cmNNY9FdJQHhxdtd-d5rG/view?usp=sharing">Resume</a><br><br>
+ 🤔 Check Out my <a href="">Resume</a><br><br>
  📫  Know more about me <a href="">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/waseem49">My Github Repositories</a><br><br>

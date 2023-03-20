@@ -21,7 +21,7 @@ A Passionate Front-End Web Developer from India
  🌱 I’m currently learning MERN Stack.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/1DSemB-Xe1uwsBnhqC03D2nxybacb7oVF/view?usp=share_link">Resume</a><br><br>
-<!--  📫  Know more about me <a href="">Portfolio</a><br><br> -->
+ 📫  Know more about me <a href="https://waseem49.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/waseem49">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , JavaScript<br><br>

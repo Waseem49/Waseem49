@@ -76,7 +76,7 @@ A Passionate Front-End Web Developer from India
 
 <br/>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="navneet123" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=md-waseem-akram&label=Profile%20views&color=0e75b6&style=flat" alt="Waseem49" /> </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
 <div align="center">

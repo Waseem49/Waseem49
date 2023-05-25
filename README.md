@@ -17,7 +17,7 @@ A Passionate Front-End Web Developer from India
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
 <h2 align="center">💫  About Me </h2>
- 🔭 I’m currently preparing for placements!. <br><br>
+ 🔭 I’m currently preparing for placements!!!! <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/1DSemB-Xe1uwsBnhqC03D2nxybacb7oVF/view?usp=share_link">Resume</a><br><br>
@@ -30,7 +30,7 @@ A Passionate Front-End Web Developer from India
 <h2 align="center">📱 Connect With Me </h2>
 <br />
 <p align="center">
-<a href="https://www.linkedin.com/in/md-waseem-akram-a8344b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-waseem-akram-a8344b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Waseem49/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Waseem" height="30" width="40" /></a>
 </p>
 <br />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 

@@ -16,12 +16,14 @@ A Passionate Front-End Web Developer from India
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
+   <a href="https://Shahid0143.github.io/" target="_blank"> <img  src="https://cdn-icons-png.flaticon.com/512/522/522510.png" height="40" width="40" /> </a>
 <h2 align="center">💫  About Me </h2>
  🔭 I’m currently preparing for placements!!!! <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/1DSemB-Xe1uwsBnhqC03D2nxybacb7oVF/view?usp=share_link">Resume</a><br><br>
- 📫  Know more about me <a href="https://waseem49.github.io">Portfolio</a><br><br>
+
+<!--  📫  Know more about me <a href="https://waseem49.github.io">Portfolio</a><br><br> -->
  😄 All of my projects are available at
 <a href="https://github.com/waseem49">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , JavaScript<br><br>
@@ -29,9 +31,13 @@ A Passionate Front-End Web Developer from India
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📱 Connect With Me </h2>
 <br />
-<p align="center">
-<a href="https://www.linkedin.com/in/md-waseem-akram-a8344b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Waseem49/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Waseem" height="30" width="40" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/md-waseem-akram-a8344b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahid Raza" height="30" width="40" /></a>
 </p>
+<p align="left">
+<a href="https://Waseem49.github.io" target="_blank"> <img  src="https://cdn-icons-png.flaticon.com/512/522/522510.png" height="40" width="40" /> </a>
+</p>
+
 <br />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <div align="center">

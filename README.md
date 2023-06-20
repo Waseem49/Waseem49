@@ -16,7 +16,7 @@ A Passionate Front-End Web Developer from India
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
-   <a href="https://Shahid0143.github.io/" target="_blank"> <img  src="https://cdn-icons-png.flaticon.com/512/522/522510.png" height="40" width="40" /> </a>
+<!--    <a href="https://Shahid0143.github.io/" target="_blank"> <img  src="https://cdn-icons-png.flaticon.com/512/522/522510.png" height="40" width="40" /> </a> -->
 <h2 align="center">💫  About Me </h2>
  🔭 I’m currently preparing for placements!!!! <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>

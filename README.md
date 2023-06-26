@@ -22,7 +22,7 @@ A Passionate Front-End Web Developer from India
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/drive/folders/16oVXHPhmMT-lkFhi8k8Mk2n38V9u0VkS">Resume</a><br><br>
 
-<!--  📫  Know more about me <a href="https://waseem49.github.io">Portfolio</a><br><br> -->
+ 📫  Know more about me <a href="https://waseem49.github.io">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/waseem49?tab=repositories">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , JavaScript<br><br>

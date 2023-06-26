@@ -30,10 +30,10 @@ A Passionate Front-End Web Developer from India
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📱 Connect With Me </h2>
 <br />
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/md-waseem-akram-a8344b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahid Raza" height="30" width="40" /></a>
 </p>
-<p align="left">
+<p align="center">
 <a href="https://Waseem49.github.io" target="_blank"> <img  src="https://cdn-icons-png.flaticon.com/512/522/522510.png" height="40" width="40" /> </a>
 </p>
 

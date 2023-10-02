@@ -36,6 +36,7 @@
      📧 Please feel free to contact me 👉👉 <a href="mailto:mdwaseem0603@gmail.com" target="_blank">mdwaseem0603@gmail.com</a>
      <a href="https://wa.me/8109608048" target="_blank">
       </a>
+           <br><br>
        <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
     <h2 align="center">🚀 Languages and Tools: </h2>
     <br/>

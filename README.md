@@ -29,11 +29,9 @@
     <h2 align="center">💫  About Me </h2>
      🔭 I’m currently preparing for placements!!!! <br><br>
     <!--  🌱 I’m currently learning ["Next.js","MySQL"]<br><br> -->
-    🧲 Check Out my  📑 <a href="https://drive.google.com/drive/folders/16oVXHPhmMT-lkFhi8k8Mk2n38V9u0VkS"> Resume </a>  ||  💼<a href="https://waseem49.github.io">Portfolio</a>
+    🧲 Check Out my  📑 <a href="https://drive.google.com/drive/folders/16oVXHPhmMT-lkFhi8k8Mk2n38V9u0VkS"> Resume </a>  ||  💼<a href="https://waseem49.github.io">Portfolio</a> || ⚡<a 
+        href="https://github.com/waseem49?tab=repositories">Repositories</a>
     <br><br>
-     😄 All of my projects are available at my Github Repositories
-    <a href="https://github.com/waseem49?tab=repositories"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="whatsapp logo"  />
-    </a><br><br>
      💬 Ask me about HTML, CSS, JavaScript, React, Node.js ,MongoDB <br><br>
      📧 Please feel free to contact me 👉👉 <a href="mailto:mdwaseem0603@gmail.com" target="_blank">mdwaseem0603@gmail.com</a>
      <a href="https://wa.me/8109608048" target="_blank">

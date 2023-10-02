@@ -6,7 +6,7 @@
       <a href="https://www.linkedin.com/in/md-waseem-akram-a8344b235/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
       </a>
-     <a href="" target="_blank">
+     <a href="https://drive.google.com/file/d/1DY70Q5Vpergkt4EZSYpTafLtnZaDNhdD/view?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/resume-25C2A0?style=for-the-badge&logoColor=white" height="25" alt="whatsapp logo"  />
      </a>
       <a href="https://waseem49.github.io" target="_blank">
@@ -29,7 +29,7 @@
     <h2 align="center">💫  About Me </h2>
      🔭 I’m currently preparing for placements!!!! <br><br>
     <!--  🌱 I’m currently learning ["Next.js","MySQL"]<br><br> -->
-    🧲 Check Out my  📑 <a href="https://drive.google.com/drive/folders/16oVXHPhmMT-lkFhi8k8Mk2n38V9u0VkS"> Resume </a>  ||  💼<a href="https://waseem49.github.io">Portfolio</a> || ⚡<a 
+    🧲 Check Out my  📑 <a href="https://drive.google.com/file/d/1DY70Q5Vpergkt4EZSYpTafLtnZaDNhdD/view?usp=sharing"> Resume </a>  ||  💼<a href="https://waseem49.github.io">Portfolio</a> || ⚡<a 
         href="https://github.com/waseem49?tab=repositories">Repositories</a>
     <br><br>
      💬 Ask me about HTML, CSS, JavaScript, React, Node.js ,MongoDB <br><br>

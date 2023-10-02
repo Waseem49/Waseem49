@@ -1,62 +1,58 @@
-
-<!---
-Waseem49/Waseem49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<div>
-<h2 align="center">
-Hi 👋, I am MD Waseem Akram. 
-</h2>
-<hr>
-<h2 align="center">
-A Passionate Front-End Web Developer from India
-</h2>
 <div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+<br clear="both">
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-waseem-akram-a8344b235/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+ <a href="https://wa.me/8109608048" target="_blank">
+    <img src="https://img.shields.io/badge/resume-25C2A0?style=for-the-badge&logoColor=white" height="25" alt="whatsapp logo"  />
+ </a>
+  <a href="https://wa.me/8109608048" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-A100FF?style=for-the-badge&logo=portfolio&logoColor=white" height="25" alt="whatsapp logo"  />
+ </a>
+   <a href="https://wa.me/8109608048" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
+<div>
+ <br clear="both">
+<div align="center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+MD+Waseem+Akram.;I+am+a+Full-stack+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
 <h2 align="center">💫  About Me </h2>
  🔭 I’m currently preparing for placements!!!! <br><br>
- 🌱 I’m currently learning MERN Stack.<br><br>
- <!-- 👯 I’m looking to collaborate on ...<br><br> -->
+ 🌱 I’m currently learning ["Next.js","MySQL"]<br><br>
  🤔 Check Out my <a href="https://drive.google.com/drive/folders/16oVXHPhmMT-lkFhi8k8Mk2n38V9u0VkS">Resume</a><br><br>
-
  📫  Know more about me <a href="https://waseem49.github.io">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/waseem49?tab=repositories">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , JavaScript<br><br>
  ⚡ How to reach me mdwaseem0603@gmail.com
+  <a href="mailto:mdwaseem0603@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+ <a href="https://wa.me/8109608048" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="whatsapp logo"  />
+  </a>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<h2 align="center">📱 Connect With Me </h2>
-<br />
-<p align="center">
-<a href="https://www.linkedin.com/in/md-waseem-akram-a8344b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Waseem49" height="30" width="40" /></a>
-</p>
-<p align="center">
-<a href="https://Waseem49.github.io" target="_blank"> <img  src="https://cdn-icons-png.flaticon.com/512/522/522510.png" height="40" width="40" /> </a>
-</p>
-
-<br />
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 <h2 align="center">🚀 Languages and Tools: </h2>
 <br/>
- <div align="center"><h3 align="center">Frontend</h3>
+<div align="center"><h3 align="center">Frontend</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=gold"  align="center" alt="material-ui"/>
- <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=teal"  align="center" alt="react-router" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"  align="center" alt="material-ui"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=teal"  align="center" alt="react-router" />
 <br/>
 <br/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+<!--   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/> -->
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
 </div>
  <br/>
@@ -78,7 +74,6 @@ A Passionate Front-End Web Developer from India
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
  </div>
 </div>
-
 <br/>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=md-waseem-akram&label=Profile%20views&color=0e75b6&style=flat" alt="Waseem49" /> </p>

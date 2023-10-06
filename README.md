@@ -29,7 +29,7 @@
     <h2 align="center">💫  About Me </h2>
      🔭 I’m currently preparing for placements!!!! <br><br>
     <!--  🌱 I’m currently learning ["Next.js","MySQL"]<br><br> -->
-    🧲 Check Out my  📑 <a href="https://drive.google.com/file/d/1DY70Q5Vpergkt4EZSYpTafLtnZaDNhdD/view?usp=sharing"> Resume </a>  ||  💼<a href="https://waseem49.github.io">Portfolio</a> || ⚡<a 
+    🧲 Check Out my  📑 <a href="https://drive.google.com/file/d/1DY70Q5Vpergkt4EZSYpTafLtnZaDNhdD/view?usp=sharing"> Resume </a>  ||  💼<a href="https://waseem49.github.io/">Portfolio</a> || ⚡<a 
         href="https://github.com/waseem49?tab=repositories">Repositories</a>
     <br><br>
      💬 Ask me about HTML, CSS, JavaScript, React, Node.js ,MongoDB <br><br>

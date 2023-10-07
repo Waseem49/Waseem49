@@ -34,9 +34,10 @@
     <br><br>
      💬 Ask me about HTML, CSS, JavaScript, React, Node.js ,MongoDB <br><br>
      📧 Please feel free to contact me 👉👉 <a href="mailto:mdwaseem0603@gmail.com" target="_blank">mdwaseem0603@gmail.com</a>
-     <a href="https://wa.me/8109608048" target="_blank">
+     <p align="left">
+     <a href="https://waseem49.github.io/" target="_blank"> <img  src="https://cdn-icons-png.flaticon.com/512/522/522510.png" height="40" width="40" /> </a>
+     </p>
       </a>
-           <br><br>
        <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
     <h2 align="center">🚀 Languages and Tools: </h2>
     <br/>

@@ -20,7 +20,7 @@ A passionate full-stack web developer from India
  🤔 Check Out my <a href="https://drive.google.com/file/d/1M_wx6AH-JqDM_uG33litidf8hcVO_8gH/view?usp=drive_link">Resume</a><br><br>
  📫  Know more about me <a href="https://Waseem49.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
-<a href="https://github.com/Waseem49.?tab=repositories">My Github Repositories</a><br><br>
+<a href="https://github.com/waseem49?tab=repositories">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js, Express.js, JavaScript<br><br>
  ⚡ How to reach me mdwaseem0603@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
@@ -28,10 +28,10 @@ A passionate full-stack web developer from India
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shahid-raza-73b117216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahid Raza" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-waseem-akram-a8344b235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahid Raza" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://Waseem49..github.io/" target="_blank"> <img  src="https://cdn-icons-png.flaticon.com/512/522/522510.png" height="40" width="40" /> </a>
+<a href="https://waseem49.github.io" target="_blank"> <img  src="https://cdn-icons-png.flaticon.com/512/522/522510.png" height="40" width="40" /> </a>
 </p>
 
 <div align="center">
@@ -89,9 +89,9 @@ A passionate full-stack web developer from India
  
 <div align="center">
  
- <img src="https://github-readme-stats.vercel.app/api?username=Shahid0143&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shahid Raza" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Waseem49&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Waseem" />
  
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid0143&lans-count=4" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseem49&lans-count=4" /></p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahid0143&show_icons=true&locale=en" /></p> -->
 <img src="https://streak-stats.demolab.com/?user=Waseem49&theme=github-dark"
     alt="stats" /></a>

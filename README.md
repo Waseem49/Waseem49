@@ -15,7 +15,7 @@ A passionate full-stack web developer from India
  
 <div>
 <h2 align="center">💫  About Me </h2>
- 🔭 I’m currently preparing for placements!. <br><br>
+ 🔭 I’m currently preparing for placements! <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  👯 I’m looking to collaborate on ...<br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1M_wx6AH-JqDM_uG33litidf8hcVO_8gH/view?usp=drive_link">Resume</a><br><br>
@@ -37,8 +37,8 @@ A passionate full-stack web developer from India
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<!--   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a> -->
 
 <h2 align="center">📱 Connect With Me </h2>
 <br/>
